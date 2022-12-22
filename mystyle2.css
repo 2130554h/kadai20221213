@@ -1,0 +1,7 @@
+body{
+        background-color: red !important;
+}
+img{
+    filter: blur(3px) !important;
+    border: 10px dotted green  !important;
+}
